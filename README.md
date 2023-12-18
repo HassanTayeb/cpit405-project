@@ -2,9 +2,12 @@
 
 the project can be activated by xampp
 
-https://www.youtube.com/watch?v=RPe9_pB-mRY
+the link to screeencast: https://www.youtube.com/watch?v=RPe9_pB-mRY
 
 [![](./youtube-screenshot.png)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
+
+[![Watch the video](https://img.youtube.com/vi/RPe9_pB-mRY/default.jpg)](https://youtu.be/RPe9_pB-mRY)
+
 
 ![Screenshot 2023-12-17 210949](https://github.com/HassanTayeb/cpit405-project/assets/98516470/d5da774e-e4a2-440c-aed2-f031748b8873)
 ![Screenshot 2023-12-17 211019](https://github.com/HassanTayeb/cpit405-project/assets/98516470/a1e485b6-1ddc-4e1a-8a42-8f8a9706e27b)
