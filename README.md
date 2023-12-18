@@ -1,33 +1,19 @@
 # CRUD Events CPIT-405 project 
 
+the project can be activated by xampp
 
 https://www.youtube.com/watch?v=RPe9_pB-mRY
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RPe9_pB-mRY/0.jpg)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
-
 [![](./youtube-screenshot.png)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
 
+![Screenshot 2023-12-17 210949](https://github.com/HassanTayeb/cpit405-project/assets/98516470/d5da774e-e4a2-440c-aed2-f031748b8873)
+![Screenshot 2023-12-17 211019](https://github.com/HassanTayeb/cpit405-project/assets/98516470/a1e485b6-1ddc-4e1a-8a42-8f8a9706e27b)
+![Screenshot 2023-12-17 211120](https://github.com/HassanTayeb/cpit405-project/assets/98516470/8b4d3123-40a2-4b07-880f-7109b72f6530)
+![Screenshot 2023-12-17 215830](https://github.com/HassanTayeb/cpit405-project/assets/98516470/dfaf1993-969d-45a7-be4d-f39d5d35c652)
+![Screenshot 2023-12-17 211100](https://github.com/HassanTayeb/cpit405-project/assets/98516470/269a4226-747f-4fc8-818b-f93bf7dda2db)
+![Screenshot 2023-12-17 211143](https://github.com/HassanTayeb/cpit405-project/assets/98516470/e3486bdc-e854-47c4-9d65-c37d8b7c0b3e)
+![Screenshot 2023-12-18 151014](https://github.com/HassanTayeb/cpit405-project/assets/98516470/bb869b1d-261b-48cc-b4ba-59e3b623b3f4)
+![Screenshot 2023-12-17 211210](https://github.com/HassanTayeb/cpit405-project/assets/98516470/ee2f3def-eb62-46be-9d4f-36fb7ecca1f1)
+![image](https://github.com/HassanTayeb/cpit405-project/assets/98516470/d0f00a56-653a-482e-93ad-e300d01dfaeb)
+![Screenshot 2023-12-17 211243](https://github.com/HassanTayeb/cpit405-project/assets/98516470/74a95ab8-299c-4062-8d23-fe0eb26d048a)
 
-![Screenshot 2023-12-17 210949](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/04551c58-9ce4-4c98-a4f9-074f43815c62)
-
-
-![Screenshot 2023-12-17 211019](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/6e15ea36-4692-46f0-876d-0e176ad09566)
-
-
-![Screenshot 2023-12-17 211120](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/5b422833-95da-4ce5-a13e-7e1a7f594cb8)
-
-
-![Screenshot 2023-12-17 211100](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/b6f6d29c-557b-4d85-ae3a-1ffd54d33848)
-
-
-![Screenshot 2023-12-17 211143](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/807aae5c-5d8a-404a-9f86-0cdf1689f78d)
-
-
-![Screenshot 2023-12-17 211210](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/6e2f372b-7d3b-4ac4-88b8-577868daefc3)
-
-
-![Screenshot 2023-12-17 211243](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/3dfb6b82-50bf-41b4-8345-327ba2c3d33f)
-
-
-![Screenshot 2023-12-17 215830](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/7cda0fc5-2319-448b-a89e-6d9f911612d3)
