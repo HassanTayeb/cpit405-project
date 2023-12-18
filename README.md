@@ -6,6 +6,8 @@ the link to screeencast: https://www.youtube.com/watch?v=RPe9_pB-mRY
 
 [![](./youtube-screenshot.png)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
 
+
+click the video:
 [![Watch the video](https://img.youtube.com/vi/RPe9_pB-mRY/default.jpg)](https://youtu.be/RPe9_pB-mRY)
 
 
