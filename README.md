@@ -3,7 +3,10 @@
 
 https://www.youtube.com/watch?v=RPe9_pB-mRY
 
-[![](./youtube-screenshot.png)](https://www.youtube.com/watch?v=eOYLI_44luQ)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RPe9_pB-mRY/0.jpg)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
+
+[![](./youtube-screenshot.png)](https://www.youtube.com/watch?v=RPe9_pB-mRY)
 
 
 ![Screenshot 2023-12-17 210949](https://github.com/HassanTayeb/cpit405-project-eventNew/assets/98516470/04551c58-9ce4-4c98-a4f9-074f43815c62)
